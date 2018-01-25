@@ -1,0 +1,11 @@
+Dataset contains an fields given below
+      1)vendor_name(Prediction label)
+      2)model name
+      3)machine cycle time
+      4)minimum main memory
+      5)maximum main memory
+      6)cache memory
+      7)minimum channel
+      8)maximum channel
+      9)published performance
+      10)estimated performance
